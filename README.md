@@ -86,6 +86,5 @@ Finally, the Spark logo appears, and the prompt displays the Scala shell.
     
     * pip install pyspark==3.1.2
     
-### Done setting up the local standalone instance of Apache Spark (3.1.2version) on your laptop/desktop system
 
 
